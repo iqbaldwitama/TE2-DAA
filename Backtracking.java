@@ -7,7 +7,7 @@ public class Backtracking
     public static void main(String args[])
     {
         // Adjust the number of vertices (16, 18, or 20)
-        int V = 20; 
+        int V = 18; 
 
         // Adjust the type of the graph input file (non_hamilton or hamilton)
         String type = "non_hamilton";
